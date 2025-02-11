@@ -1,0 +1,1 @@
+Este programa oferece opções para converter metros para quilômetros, Celsius para Fahrenheit e quilogramas para libras. O usuário pode escolher a opção desejada e inserir o valor a ser convertido. O programa então exibe o resultado da conversão.
